@@ -116,8 +116,8 @@ h2.brand-tagline {
 .sidebar-logo {
     height: auto;
     width: 240px;
-    position: center;
-    bottom: 5px;
+    position: bottom;
+    bottom: 0px;
     left: 5px;
     max-width: 100%;
 }
