@@ -327,7 +327,7 @@ a.post-category:hover {
 	overflow: hidden;
 }
 .content-banner-image-inline {
-	float: right;
+	float: top;
 	margin: 0.5rem 0 1.5rem 2rem;
 }
 
