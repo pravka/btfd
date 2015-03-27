@@ -30,12 +30,12 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/iLHcNSPRo3s&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/iLHcNSPRo3s&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;div class=&#34;embed video-player&#34;&gt;
-&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;http://www.youtube.com/embed/O35FRQnOweM&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
+&lt;iframe class=&#34;youtube-player&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;385&#34; src=&#34;https://www.youtube.com/embed/O35FRQnOweM&#34; allowfullscreen frameborder=&#34;0&#34;&gt;
 &lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 </description>
